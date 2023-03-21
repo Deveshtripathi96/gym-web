@@ -48,12 +48,12 @@ h2{
     box-shadow: 1px 1px 10px;
 }
 #chart img{ align-items: center;
-    width: 300px;
+    width: 200px;
     height: auto;
-    right: 50%;
-    left: 50%;
-    resize: both;
+   
+   
     
-    background-size: cover;
+    
+    
 
 }
